@@ -3,8 +3,8 @@ Here you can find all the projects that I have developed within the scope of Aut
 
 # Automation examples
 
-**Industrial Control with Matlab**
+# Industrial Control with Matlab
 
 
 
-**Industrial Control with Simulink**
+# Industrial Control with Simulink
